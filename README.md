@@ -18,6 +18,9 @@
   - Redux 
   - Node.js
   - Typescrpt
+  - Python
+  - Rust
+  - SQL
     
   I would also like to further develop my skills 
       to learn Back-End Development as well
@@ -31,16 +34,14 @@
                 
   Alternatively, you can find me on various social medias such as:
   
-  - Twitter: [@BigLargeCafe](twitter.com/@BigLargeCafe)
+  - Linkedin: [My Linkedin Profile](https://www.linkedin.com/in/ian-isern-46a231312/)
   - BlueSky: [@cafecoffee.bsky.social](https://bsky.app/profile/cafecoffee.bsky.social)
   - Email me: ianisern@gmail.com
-      
-   And more to come soon ...
+
+  And most importantly, [My Portfolio](ianisernwebdev.netlify.app)
    
 ### Pronouns: He/Him
 
- #### Fun fact: 
-  I also stream on Twitch as a variety streamer occasionally, you can find me over at [twitch.tv/cafecoffee](twitch.tv/cafecoffee)
 
 <!---
 IfritSorcerer/IfritSorcerer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
